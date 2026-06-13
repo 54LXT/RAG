@@ -1,0 +1,8 @@
+.env
+chat_history.json
+__pycache__/
+chroma_db/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.vite/

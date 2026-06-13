@@ -1,0 +1,4 @@
+source /tools/Xilinx/Vivado/2020.2/settings64.sh
+vivado &
+settings64.sh脚本配置了Vivado所需的所有环境变量，包括PATH、LD_LIBRARY_PATH等。
+Vivado是Xilinx的FPGA开发环境，用于Verilog/VHDL代码编写、综合、布局布线和比特流生成。

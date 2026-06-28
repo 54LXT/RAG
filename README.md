@@ -32,7 +32,6 @@ rag/
 ├── app_file_uploader.py   # Streamlit 文件上传界面
 ├── chroma_db/             # ChromaDB 持久化目录
 ├── data/                  # 上传文件存储目录
-├── data_gen/              # 测试语料生成目录
 ├── eval_dataset.json      # 评测数据集（20 条手工标注用例）
 ├── chat_history.json      # 会话历史持久化文件
 └── frontend/              # Vue 3 + Vite 前端
